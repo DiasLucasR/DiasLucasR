@@ -1,6 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Dias
 ==================================================================================================================================
 
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiasLucasR&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiasLucasR&theme=nord_dark)
+  
+</div>  
+
 Full Stack Developer
 --------------------
 
@@ -8,7 +15,6 @@ I've been working as a fullstack developer an lately with a integration focus. I
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [lucasr.oliveira.dias@gmail.com](mailto:lucasr.oliveira.dias@gmail.com)
-* ⚡  I love RPGs like Fallout and RTS City Builders
 
 ### Skills
 
